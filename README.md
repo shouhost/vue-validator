@@ -1,3 +1,5 @@
+#表单验证库
+
 # vue-validator
 
 [![CircleCI Status](https://circleci.com/gh/kazupon/vue-validator/tree/dev.svg?style=shield&circle-token=36fad1862fbb44da91a28217df8fba769d6d1ce7)](https://circleci.com/gh/kazupon/vue-validator/tree/dev)
